@@ -64,7 +64,6 @@ Online scheduling platform to connect patients and doctors
 
 - 📧 Email: radityaalifka1@gmail.com  
 - 📱 WhatsApp: +62 819 7751 2648  
-- 🔗 [LinkedIn](https://linkedin.com/in/radityaalifka)  
 - 💻 [GitHub](https://github.com/RadityaAlifka)  
 
 ---
