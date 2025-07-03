@@ -42,7 +42,7 @@ A secondhand goods marketplace integrating e-commerce, donation, and logistics.
 - 👥 Supports 4 user roles: buyers, sellers, couriers, and hunters
 - 📊 Admin dashboard for warehouse, donation, and employee management
 
-### 🏋️ [AtmaGym App](#) — *Sep–Nov 2024*  
+### 🏋️ [AtmaGym App] — *Sep–Nov 2024*  
 A fitness class scheduling system for gym members and admins.  
 - 📱 Built with Flutter + Laravel REST API
 - 🧠 Real-time schedule validation and booking system
